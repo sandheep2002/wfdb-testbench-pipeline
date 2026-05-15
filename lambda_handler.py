@@ -23,7 +23,7 @@ import wfdb
 from pymongo import MongoClient
 
 # ===== CONFIG =====
-MONGO_URI     = "mongodb+srv://testing:KhwAhFapPFY1YXS4@techbench.hhyz0.mongodb.net/beatly-test-bench?retryWrites=true&w=majority&appName=techbench"
+MONGO_URI     = "URI"
 DB_NAME       = "beatly-test-bench"
 
 S3_BUCKET     = "stage-beatly-test-bench"
